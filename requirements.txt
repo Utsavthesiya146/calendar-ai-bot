@@ -1,0 +1,7 @@
+streamlit==1.28.0
+requests==2.31.0streamlit
+google-api-python-client
+google-auth
+google-auth-oauthlib
+langchain
+openai
